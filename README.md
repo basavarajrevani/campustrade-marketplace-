@@ -1,8 +1,8 @@
-# Second_Hand_Seller
+# campustrade marketplace
 
 #### Please give this project a star if this helped you in any way.
 
-Second Hand Seller is a MERN Stack based on e-commerce web application. It is a MERN project where used products can be sold & bought from the comfort of home through the website.
+campustrade marketplace is a MERN Stack based on e-commerce web application. It is a MERN project where used products can be sold & bought fromcampus through the website.
 
 # A complete MERN E-Commerce Website
 
@@ -21,13 +21,6 @@ In the project directory, you can run:
 ### npm start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
-
-The page will reload if you make edits.
-You will also see any lint errors in the console.
-
-### npm test
-Launches the test runner in the interactive watch mode.
-See the section about running tests for more information.
 
 ### npm run build
 Builds the app for production to the build folder.
